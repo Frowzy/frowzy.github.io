@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url(JetBrainsMono-Regular.ttf);
+}
+
+body{
+	margin: 0;
+	font-family: "JetBrains Mono", monospace ,sans-serif;
+}
+
+header {
+	display: flex;
+	padding: 15px;
+	position: relative;
+	border-bottom: 1px solid #e5e7eb;
+}
+
+.link{
+	color: #000;
+	flex: 1;
+	margin:  0 1%;
+	text-align: center;
+	align-self: flex-end;
+}
+
+.link:hover{
+	color: rgb(163, 163, 163);
+}
