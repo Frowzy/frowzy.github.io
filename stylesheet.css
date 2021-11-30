@@ -15,6 +15,10 @@ header {
 	border-bottom: 1px solid #e5e7eb;
 }
 
+header img {
+	height: auto;
+}
+
 .link{
 	color: #000;
 	flex: 1;
