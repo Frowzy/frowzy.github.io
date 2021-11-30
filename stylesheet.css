@@ -25,6 +25,7 @@ header img {
 	margin:  0 1%;
 	text-align: center;
 	align-self: flex-end;
+	transform: translateY(-50%);
 }
 
 .link:hover{
